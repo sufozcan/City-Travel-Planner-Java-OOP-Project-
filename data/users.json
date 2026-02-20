@@ -1,0 +1,353 @@
+[
+  {
+    "username": "1",
+    "email": "1",
+    "password": "1",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "2",
+    "email": "2",
+    "password": "2",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "3",
+    "email": "3",
+    "password": "3",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "5",
+    "email": "5",
+    "password": "5",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "dilo",
+    "email": "dilo",
+    "password": "dilo",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "4",
+    "email": "4",
+    "password": "4",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "Su Samurları 🦦",
+    "email": "Su Samurları 🦦",
+    "password": "12345",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": [
+      {
+        "planId": "02e551e9-e6c8-48c0-bfb6-f16d438cc371",
+        "startDate": "2025-06-06",
+        "endDate": "2025-06-25",
+        "budget": 25000.0,
+        "isPublic": true,
+        "reviews": [
+          {
+            "reviewerName": "Kemal",
+            "comment": "Excellent!",
+            "rating": 5
+          },
+          {
+            "reviewerName": "Dilara",
+            "comment": "Good",
+            "rating": 4
+          },
+          {
+            "reviewerName": "Yusuf",
+            "comment": "Perfecto :))",
+            "rating": 5
+          }
+        ],
+        "totalDays": 19,
+        "numberOfVisitors": 3,
+        "itinerary": [
+          {
+            "activityName": "Bosphorus Kayaking",
+            "price": 40.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Hiking in Belgrad Forest",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Prince Islands Cycling Tour",
+            "price": 25.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Scuba Diving in Tuzla",
+            "price": 90.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Hagia Sophia Tour",
+            "price": 15.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Topkapi Palace Visit",
+            "price": 20.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Blue Mosque Tour",
+            "price": 10.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Sultanahmet Walking Tour",
+            "price": 10.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Basilica Cistern Tour",
+            "price": 15.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Galata Tower Visit",
+            "price": 30.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Dolmabahçe Palace Tour",
+            "price": 40.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Grand Bazaar Exploration",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Süleymaniye Mosque Visit",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Maiden\u0027s Tower Tour",
+            "price": 30.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Pera Museum Visit",
+            "price": 10.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Tomb of Mehmed the Magnificent",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Istanbul Archaeological Museums Visit",
+            "price": 15.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Cağaloğlu Hamam",
+            "price": 40.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Gülhane Park",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Moda Coastal Walk",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Polonezköy Nature Park",
+            "price": 5.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Princes\u0027 Islands Tour",
+            "price": 25.0,
+            "duration": 0
+          }
+        ],
+        "cityName": "Istanbul",
+        "planTitle": "\"Istanbul Recommended Trip\""
+      },
+      {
+        "planId": "294eec99-99d2-4e9f-9cbf-a8b271e5003d",
+        "startDate": "2025-06-24",
+        "endDate": "2025-07-29",
+        "budget": 30000.0,
+        "isPublic": true,
+        "reviews": [
+          {
+            "reviewerName": "Kemal",
+            "comment": "Is it real or recommended plan???",
+            "rating": 5
+          },
+          {
+            "reviewerName": "Dilara",
+            "comment": "nice",
+            "rating": 3
+          },
+          {
+            "reviewerName": "Yusuf",
+            "comment": "Bravo ",
+            "rating": 5
+          }
+        ],
+        "totalDays": 35,
+        "numberOfVisitors": 3,
+        "itinerary": [
+          {
+            "activityName": "Hagia Sophia Tour",
+            "price": 15.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Topkapi Palace Visit",
+            "price": 20.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Blue Mosque Tour",
+            "price": 10.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Dolmabahçe Palace Tour",
+            "price": 40.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Maiden\u0027s Tower Tour",
+            "price": 30.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Bosphorus Kayaking",
+            "price": 40.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Hiking in Belgrad Forest",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Prince Islands Cycling Tour",
+            "price": 25.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Reina Club",
+            "price": 10.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Supperclub Istanbul",
+            "price": 20.0,
+            "duration": 0
+          },
+          {
+            "activityName": "360 Istanbul",
+            "price": 15.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Cağaloğlu Hamam",
+            "price": 40.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Gülhane Park",
+            "price": 0.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Moda Coastal Walk",
+            "price": 0.0,
+            "duration": 0
+          }
+        ],
+        "cityName": "Istanbul",
+        "planTitle": "\"Istanbul Trip w/Su Samurları 🦦\""
+      },
+      {
+        "planId": "f20ab5d1-b0a3-47b9-b0aa-cd5635ca1395",
+        "startDate": "2025-07-01",
+        "endDate": "2025-08-30",
+        "budget": 200000.0,
+        "isPublic": true,
+        "reviews": [
+          {
+            "reviewerName": "Yusuf",
+            "comment": "Why this is short??",
+            "rating": 1
+          }
+        ],
+        "totalDays": 60,
+        "numberOfVisitors": 2,
+        "itinerary": [
+          {
+            "activityName": "Opium Barcelona",
+            "price": 20.0,
+            "duration": 0
+          },
+          {
+            "activityName": "Razzmatazz",
+            "price": 15.0,
+            "duration": 0
+          }
+        ],
+        "cityName": "Barcelona",
+        "planTitle": "\"Silinecek\""
+      }
+    ]
+  },
+  {
+    "username": "Kemal",
+    "email": "Kemal",
+    "password": "1",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "Dilara",
+    "email": "Dilara",
+    "password": "1",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  },
+  {
+    "username": "Yusuf",
+    "email": "Yusuf",
+    "password": "1",
+    "prefersBusySeason": false,
+    "savedPlaces": [],
+    "travelHistory": []
+  }
+]
